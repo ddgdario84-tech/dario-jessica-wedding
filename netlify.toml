@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/grazie"
+  to = "/grazie.html"
+  status = 200

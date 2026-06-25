@@ -1,2 +1,5 @@
-# dario-jessica-wedding
-Official wedding website of Dario Di Gisi and Jessica Ruiz Suárez
+# Dario & Jessica Wedding
+
+Sito ufficiale del matrimonio di Dario e Jessica.
+
+Data: 16 febbraio 2028
