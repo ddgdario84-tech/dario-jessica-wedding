@@ -1,0 +1,1 @@
+Estrai questo ZIP. Vai su GitHub > dario-jessica-wedding > Add file > Upload files. Trascina tutti i file estratti e clicca Commit changes. Netlify aggiornerà il sito automaticamente.
